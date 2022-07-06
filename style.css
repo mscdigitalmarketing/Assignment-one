@@ -1,0 +1,10 @@
+#sec01{
+    background-image: url(images/donation.png);
+    height: 600px;
+    width: 1200px;
+    background-repeat: no-repeat;
+}
+
+.text01{ 
+    color:darkblue;
+}
